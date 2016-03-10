@@ -6,4 +6,4 @@
 * Set up `dotenv` and add the Stripe Secret key to `.env`
 
 ## Client
-* 
+* Handle form submission
